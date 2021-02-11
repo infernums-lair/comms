@@ -1,66 +1,66 @@
 [
-  {
-    "maxQueue": 5,
-    "lastUpdateList": "Thu Feb 11 2021 10:30:44 GMT-0300 (Horário Padrão de Brasília)"
-  },
-  [
-    {
-      "index": 0,
-      "avatar": "https://a.furaffinity.net/20210211/latsyrk.gif",
-      "name": "Latsyrk",
-      "progress": 100,
-      "profile": "https://www.furaffinity.net/user/latsyrk",
-      "from": "Furaffinity"
-    },
-    {
-      "index": 1,
-      "avatar": "https://a.furaffinity.net/20210211/skree-kaw.gif",
-      "name": "skree-kaw",
-      "progress": 100,
-      "profile": "https://www.furaffinity.net/user/skree-kaw",
-      "from": "Furaffinity"
-    },
-    {
-      "index": 2,
-      "avatar": "https://a.furaffinity.net/20210211/latsyrk.gif",
-      "name": "Latsyrk",
-      "progress": 100,
-      "profile": "https://www.furaffinity.net/user/latsyrk",
-      "from": "Furaffinity"
-    },
-    {
-      "index": 3,
-      "avatar": "https://a.furaffinity.net/20210211/mikeyfoxtree2.gif",
-      "name": "mikeyfoxtree2",
-      "progress": 10,
-      "profile": "https://www.furaffinity.net/user/mikeyfoxtree2",
-      "from": "Furaffinity"
-    },
-    {
-      "index": 4,
-      "avatar": "https://a.furaffinity.net/20210211/thetunnahaddict.gif",
-      "name": "thetunnahaddict",
-      "progress": 100,
-      "profile": "https://www.furaffinity.net/user/thetunnahaddict",
-      "from": "Furaffinity"
-    }
-  ],
-  [
-    {
-      "index":0,
-      "img":"https://d.furaffinity.net/art/infernums/1609721621/1609721621.infernums_luxxycola_comms.jpg",
-      "font":"https://www.furaffinity.net/view/39969349/",
-      "type":"render",
-      "category":"image"
-      "nsfw":true,
-    },
-    {
-      "index":1,
-      "img":"https://d.furaffinity.net/art/infernums/1608518399/1608518399.infernums_setris_comms.jpg",
-      "font":"https://www.furaffinity.net/view/39772860/",
-      "type":"render",
-      "category":"image"
-      "nsfw":true,
-    }
-  ]
+	{
+		"maxQueue": 5,
+		"lastUpdateList": "Thu Feb 11 2021 10:30:44 GMT-0300 (Horário Padrão de Brasília)"
+	},
+	[
+		{
+			"index": 0,
+			"avatar": "https://a.furaffinity.net/20210211/latsyrk.gif",
+			"name": "Latsyrk",
+			"progress": 100,
+			"profile": "https://www.furaffinity.net/user/latsyrk",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 1,
+			"avatar": "https://a.furaffinity.net/20210211/skree-kaw.gif",
+			"name": "skree-kaw",
+			"progress": 100,
+			"profile": "https://www.furaffinity.net/user/skree-kaw",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 2,
+			"avatar": "https://a.furaffinity.net/20210211/latsyrk.gif",
+			"name": "Latsyrk",
+			"progress": 100,
+			"profile": "https://www.furaffinity.net/user/latsyrk",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 3,
+			"avatar": "https://a.furaffinity.net/20210211/mikeyfoxtree2.gif",
+			"name": "mikeyfoxtree2",
+			"progress": 10,
+			"profile": "https://www.furaffinity.net/user/mikeyfoxtree2",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 4,
+			"avatar": "https://a.furaffinity.net/20210211/thetunnahaddict.gif",
+			"name": "thetunnahaddict",
+			"progress": 100,
+			"profile": "https://www.furaffinity.net/user/thetunnahaddict",
+			"from": "Furaffinity"
+		}
+	],
+	[
+		{
+			"index": 0,
+			"img": "https://d.furaffinity.net/art/infernums/1609721621/1609721621.infernums_luxxycola_comms.jpg",
+			"font": "https://www.furaffinity.net/view/39969349/",
+			"type": "render",
+			"category": "image",
+			"nsfw": true
+		},
+		{
+			"index": 1,
+			"img": "https://d.furaffinity.net/art/infernums/1608518399/1608518399.infernums_setris_comms.jpg",
+			"font": "https://www.furaffinity.net/view/39772860/",
+			"type": "render",
+			"category": "image",
+			"nsfw": true
+		}
+	]
 ]
