@@ -47,19 +47,67 @@
 	],
 	[
 		{
-			"index": 0,
-			"img": "https://d.furaffinity.net/art/infernums/1609721621/1609721621.infernums_luxxycola_comms.jpg",
-			"font": "https://www.furaffinity.net/view/39969349/",
+			"index": 4,
+			"img": "https://d.furaffinity.net/art/infernums/1608518057/1608518057.infernums_eva.png",
+			"font": "https://www.furaffinity.net/view/39772798/",
+			"type": "sketch",
+			"category": "image",
+			"nsfw": true
+		},
+		{
+			"index": 5,
+			"img": "https://d.furaffinity.net/art/infernums/1610576031/1610576031.infernums_le_meme_mommy_giraffe.jpg",
+			"font": "https://www.furaffinity.net/view/40114482/",
+			"type": "sketch",
+			"category": "image",
+			"nsfw": true
+		},
+		{
+			"index": 6,
+			"img": "https://d.furaffinity.net/art/infernums/1609821526/1609821526.infernums_lemon_comms_thetunnahaddict.jpg",
+			"font": "https://www.furaffinity.net/view/39986087/",
 			"type": "render",
 			"category": "image",
 			"nsfw": true
 		},
 		{
-			"index": 1,
+			"index": 7,
 			"img": "https://d.furaffinity.net/art/infernums/1608518399/1608518399.infernums_setris_comms.jpg",
 			"font": "https://www.furaffinity.net/view/39772860/",
 			"type": "render",
 			"category": "image",
+			"nsfw": true
+		},
+		{
+			"index": 8,
+			"img": "https://d.furaffinity.net/art/infernums/1610755772/1610755772.infernums_nanocomms40.jpg",
+			"font": "https://www.furaffinity.net/view/40146533/",
+			"type": "render",
+			"category": "image",
+			"nsfw": true
+		},
+		{
+			"index": 9,
+			"img": "https://d.furaffinity.net/art/infernums/1612478358/1612478329.infernums_tunnasharkcomms.png",
+			"font": "https://www.furaffinity.net/view/40465378/",
+			"type": "render",
+			"category": "image",
+			"nsfw": true
+		},
+		{
+			"index": 0,
+			"img": "https://d.furaffinity.net/art/infernums/1607169209/1607169209.infernums_output.gif",
+			"font": "https://www.furaffinity.net/view/39527951/",
+			"type": "sketch",
+			"category": "animation",
+			"nsfw": true
+		},
+		{
+			"index": 1,
+			"img": "https://d.furaffinity.net/art/infernums/1607444410/1607444410.infernums_animatedcomms2.gif",
+			"font": "https://www.furaffinity.net/view/39578743/",
+			"type": "render",
+			"category": "animation",
 			"nsfw": true
 		}
 	]
