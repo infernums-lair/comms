@@ -1,12 +1,12 @@
 [
 	{
 		"maxQueue": 5,
-		"lastUpdateList": "Fri Feb 12 2021 06:52:11 GMT-0300 (Horário Padrão de Brasília)"
+		"lastUpdateList": "Sat Feb 13 2021 00:18:21 GMT-0300 (Horário Padrão de Brasília)"
 	},
 	[
 		{
 			"index": 0,
-			"avatar": "https://a.furaffinity.net/20210211/latsyrk.gif",
+			"avatar": "https://i.imgur.com/zUYFARM.gif",
 			"name": "Latsyrk",
 			"progress": 100,
 			"profile": "https://www.furaffinity.net/user/latsyrk",
@@ -14,7 +14,7 @@
 		},
 		{
 			"index": 1,
-			"avatar": "https://a.furaffinity.net/20210211/skree-kaw.gif",
+			"avatar": "https://i.imgur.com/DWTT5rV.gif",
 			"name": "skree-kaw",
 			"progress": 100,
 			"profile": "https://www.furaffinity.net/user/skree-kaw",
@@ -22,7 +22,7 @@
 		},
 		{
 			"index": 2,
-			"avatar": "https://a.furaffinity.net/20210211/latsyrk.gif",
+			"avatar": "https://i.imgur.com/zUYFARM.gif",
 			"name": "Latsyrk",
 			"progress": 100,
 			"profile": "https://www.furaffinity.net/user/latsyrk",
@@ -30,15 +30,15 @@
 		},
 		{
 			"index": 5,
-			"avatar": "https://a.furaffinity.net/20210211/mikeyfoxtree2.gif",
+			"avatar": "https://i.imgur.com/8v4iPWu.gif",
 			"name": "mikeyfoxtree2",
-			"progress": 30,
+			"progress": 35,
 			"profile": "https://www.furaffinity.net/user/mikeyfoxtree2",
 			"from": "Furaffinity"
 		},
 		{
 			"index": 4,
-			"avatar": "https://a.furaffinity.net/20210211/thetunnahaddict.gif",
+			"avatar": "https://i.imgur.com/jlySY5A.gif",
 			"name": "thetunnahaddict",
 			"progress": 100,
 			"profile": "https://www.furaffinity.net/user/thetunnahaddict",
@@ -48,7 +48,7 @@
 	[
 		{
 			"index": 4,
-			"img": "https://d.furaffinity.net/art/infernums/1608518057/1608518057.infernums_eva.png",
+			"img": "https://i.imgur.com/CH8zpu9.png",
 			"font": "https://www.furaffinity.net/view/39772798/",
 			"type": "sketch",
 			"category": "image",
@@ -56,7 +56,7 @@
 		},
 		{
 			"index": 5,
-			"img": "https://d.furaffinity.net/art/infernums/1610576031/1610576031.infernums_le_meme_mommy_giraffe.jpg",
+			"img": "https://i.imgur.com/4lRHAu8.jpg",
 			"font": "https://www.furaffinity.net/view/40114482/",
 			"type": "sketch",
 			"category": "image",
@@ -64,7 +64,7 @@
 		},
 		{
 			"index": 6,
-			"img": "https://d.furaffinity.net/art/infernums/1609821526/1609821526.infernums_lemon_comms_thetunnahaddict.jpg",
+			"img": "https://i.imgur.com/gnEoRu4.jpg",
 			"font": "https://www.furaffinity.net/view/39986087/",
 			"type": "render",
 			"category": "image",
@@ -72,7 +72,7 @@
 		},
 		{
 			"index": 7,
-			"img": "https://d.furaffinity.net/art/infernums/1608518399/1608518399.infernums_setris_comms.jpg",
+			"img": "https://i.imgur.com/Mo2bY3k.jpg",
 			"font": "https://www.furaffinity.net/view/39772860/",
 			"type": "render",
 			"category": "image",
@@ -80,7 +80,7 @@
 		},
 		{
 			"index": 8,
-			"img": "https://d.furaffinity.net/art/infernums/1610755772/1610755772.infernums_nanocomms40.jpg",
+			"img": "https://i.imgur.com/sZE59EE.jpg",
 			"font": "https://www.furaffinity.net/view/40146533/",
 			"type": "render",
 			"category": "image",
@@ -88,7 +88,7 @@
 		},
 		{
 			"index": 9,
-			"img": "https://d.furaffinity.net/art/infernums/1612478358/1612478329.infernums_tunnasharkcomms.png",
+			"img": "https://i.imgur.com/dkrKwRL.png",
 			"font": "https://www.furaffinity.net/view/40465378/",
 			"type": "render",
 			"category": "image",
@@ -96,7 +96,7 @@
 		},
 		{
 			"index": 0,
-			"img": "https://d.furaffinity.net/art/infernums/1607169209/1607169209.infernums_output.gif",
+			"img": "https://i.imgur.com/bplWZJu.gif",
 			"font": "https://www.furaffinity.net/view/39527951/",
 			"type": "sketch",
 			"category": "animation",
@@ -104,7 +104,7 @@
 		},
 		{
 			"index": 1,
-			"img": "https://d.furaffinity.net/art/infernums/1607444410/1607444410.infernums_animatedcomms2.gif",
+			"img": "https://i.imgur.com/FQmQSlI.gif",
 			"font": "https://www.furaffinity.net/view/39578743/",
 			"type": "render",
 			"category": "animation",
