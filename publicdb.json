@@ -1,49 +1,82 @@
 [
 	{
-		"maxQueue": 5,
+		"maxQueue": 10,
 		"lastUpdateList": "Sat Mar 06 2021 22:31:56 GMT-0300 (Horário Padrão de Brasília)"
 	},
 	[
 		{
-			"index": 0,
-			"avatar": "https://i.imgur.com/zUYFARM.gif",
-			"name": "Latsyrk",
-			"progress": 100,
-			"profile": "https://www.furaffinity.net/user/latsyrk",
-			"from": "Furaffinity"
-		},
-		{
 			"index": 1,
-			"avatar": "https://i.imgur.com/DWTT5rV.gif",
-			"name": "skree-kaw",
-			"progress": 100,
-			"profile": "https://www.furaffinity.net/user/skree-kaw",
+			"avatar": "https://i.imgur.com/XRDVSPw.png",
+			"name": "AdamTheWolf55",
+			"progress": 0,
+			"profile": "https://www.furaffinity.net/user/AdamTheWolf55",
 			"from": "Furaffinity"
 		},
 		{
 			"index": 2,
-			"avatar": "https://i.imgur.com/zUYFARM.gif",
-			"name": "Latsyrk",
-			"progress": 100,
-			"profile": "https://www.furaffinity.net/user/latsyrk",
+			"avatar": "https://i.imgur.com/jlySY5A.gif",
+			"name": "thetunnahaddict",
+			"progress": 50,
+			"profile": "https://www.furaffinity.net/user/thetunnahaddict",
 			"from": "Furaffinity"
 		},
 		{
-			"index": 5,
-			"avatar": "https://i.imgur.com/8v4iPWu.gif",
-			"name": "mikeyfoxtree2",
-			"progress": 100,
-			"profile": "https://www.furaffinity.net/user/mikeyfoxtree2",
+			"index": 3,
+			"avatar": "https://i.imgur.com/6bYEaqt.gif",
+			"name": "Curious Landshark",
+			"progress": 50,
+			"profile": "https://www.furaffinity.net/user/curiousgarchomp",
 			"from": "Furaffinity"
 		},
 		{
 			"index": 4,
-			"avatar": "https://i.imgur.com/jlySY5A.gif",
-			"name": "thetunnahaddict",
-			"progress": 100,
-			"profile": "https://www.furaffinity.net/user/thetunnahaddict",
+			"avatar": "https://i.imgur.com/6bYEaqt.gif",
+			"name": "Curious Landshark",
+			"progress": 0,
+			"profile": "https://www.furaffinity.net/user/curiousgarchomp",
 			"from": "Furaffinity"
+		},
+		{
+			"index": 5,
+			"avatar": "https://i.imgur.com/6bYEaqt.gif",
+			"name": "Curious Landshark",
+			"progress": 0,
+			"profile": "https://www.furaffinity.net/user/curiousgarchomp",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 6,
+			"avatar": "https://i.imgur.com/6bYEaqt.gif",
+			"name": "Curious Landshark",
+			"progress": 0,
+			"profile": "https://www.furaffinity.net/user/curiousgarchomp",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 7,
+			"avatar": "https://i.imgur.com/6bYEaqt.gif",
+			"name": "Curious Landshark",
+			"progress": 0,
+			"profile": "https://www.furaffinity.net/user/curiousgarchomp",
+			"from": "Furaffinity"
+		},
+		{
+			"index": 8,
+			"avatar": "https://i.imgur.com/IsWcVWk.png",
+			"name": "StyBusty",
+			"progress": 0,
+			"profile": "https://twitter.com/StyBusty",
+			"from": "Twitter"
+		},
+		{
+			"index": 9,
+			"avatar": "https://i.imgur.com/dc4AFJ6.png",
+			"name": "FerretSabre",
+			"progress": 0,
+			"profile": "https://twitter.com/FerretSabre",
+			"from": "Twitter"
 		}
+		
 	],
 	[
 		{
