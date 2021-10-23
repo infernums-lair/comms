@@ -1,56 +1,24 @@
 [
 	{
-		"maxQueue": 10,
-		"lastUpdateList": "Tue Apr 20 2021 09:21:40 GMT-0300 (Horário Padrão de Brasília)"
+		"maxQueue": 2,
+		"lastUpdateList": "Sat Oct 23 2021 05:31:28 GMT-0300 (Horário Padrão de Brasília)"
 	},
 	[
 		{
 			"index": 1,
-			"avatar": "https://i.imgur.com/XRDVSPw.png",
-			"name": "AdamTheWolf55",
-			"progress": 90,
-			"profile": "https://www.furaffinity.net/user/AdamTheWolf55",
-			"from": "Furaffinity"
-		},
-		{
-			"index": 11,
 			"avatar": "https://i.imgur.com/uzuDUrw.gif",
 			"name": "mikeyfoxtree2",
-			"progress": 0,
+			"progress": 85,
 			"profile": "https://www.furaffinity.net/user/mikeyfoxtree2",
 			"from": "Furaffinity"
 		},
 		{
-			"index": 3,
+			"index": 2,
 			"avatar": "https://i.imgur.com/6bYEaqt.gif",
 			"name": "Curious Landshark",
-			"progress": 50,
+			"progress": 25,
 			"profile": "https://www.furaffinity.net/user/curiousgarchomp",
 			"from": "Furaffinity"
-		},
-		{
-			"index": 8,
-			"avatar": "https://i.imgur.com/IsWcVWk.png",
-			"name": "StyBusty",
-			"progress": 100,
-			"profile": "https://twitter.com/StyBusty",
-			"from": "Twitter"
-		},
-		{
-			"index": 9,
-			"avatar": "https://i.imgur.com/dc4AFJ6.png",
-			"name": "FerretSabre",
-			"progress": 0,
-			"profile": "https://twitter.com/FerretSabre",
-			"from": "Twitter"
-		},
-		{
-			"index": 10,
-			"avatar": "https://i.imgur.com/dc4AFJ6.png",
-			"name": "FerretSabre",
-			"progress": 0,
-			"profile": "https://twitter.com/FerretSabre",
-			"from": "Twitter"
 		}
 		
 	],
